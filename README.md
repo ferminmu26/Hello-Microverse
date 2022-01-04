@@ -2,20 +2,15 @@
 
 # Hello Microverse
 
-> This is my first Microverse Project.
+> This is my first Hello Microverse Project.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
 
 ## Built With
 
 - Html, Css
 
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 ## Author
 
