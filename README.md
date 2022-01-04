@@ -16,6 +16,6 @@
 
 👤 **Miguel Fermín**
 
-- GitHub: [@githubhandle](https://github.com/ferminmu26)
-- Twitter: [@twitterhandle](https://twitter.com/ferminmu26)
+- GitHub: [@ferminmu26](https://github.com/ferminmu26)
+- Twitter: [@ferminmu26](https://twitter.com/ferminmu26)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/mejfa)
